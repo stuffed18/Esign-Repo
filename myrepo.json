@@ -2,6 +2,21 @@
     "apps": [
         {
             "beta": false,
+            "bundleIdentifier": "com.yourdeveloper.crossyroadcastle",
+            "developerName": "HIPSTER WHALE",
+            "downloadURL": "https://download1530.mediafire.com/7o9bjfxdb9qgszhacWNzNC0qo4bYw42Xd_kmyQFLe-rn1CLVKHGPqYN0m3RFQvKXCFpFsS5Bv5zt1WmaWzDhD_SdqMsJZvPGwhfCxyvWmb_1kVn3siHcP7dazV224qDhuhGRCebCA2reuXzJ4d5KH2-CuuHpO3OUBTnG1GOEmr-AxhVu/8zkro1ea8bpidyh/Crossy+Road+Castle+%28v10.0%29.ipa",
+            "iconURL": "https://cdn.jim-nielsen.com/ios/512/crossy-road-castle-2020-04-03.png",
+            "localizedDescription": "Bring your friends and see how far you can get in this endless spinning tower of arcade fun!\n\nKeep climbing as high as you can. Every run is different.\n\nHighlights:\n\n- Play Together: Designed for co-operative arcade platforming chaos. You can also play solo, but everything’s more fun with friends, right?\n- Connect Easily: Connect all players on a single device with game controllers, or connect together across multiple devices (or any mix that suits you).\n- Collect Everything: Unlock Crossy Chicken and friends. Dress up in silly hats.\n- Find New Stuff: Each tower run is procedurally generated and will be different every time!\n- Defeat an Oversized Angry Eagle: Why is it so angry?!\n- Play Offline: No internet? No worries. Everything except Challenge Events is enjoyable offline!\n- Get New Content: New Towers and Characters coming regularly!\n- Challenge Events: Test your tower climbing skills and compete for the best score!",
+            "name": "Crossy Road Castle",
+            "size": 271161543,
+            "subtitle": "Bring your friends and see how far you can get in this endless spinning tower of arcade fun!",
+            "tintColor": "black",
+            "version": "10.0",
+            "versionDate": "2023-10-24T14:00:00-07:00",
+            "versionDescription": "We’ve cranked up the fun in this update!\n\n- Windup Workshop tower featuring all new levels, challenges and characters (there are robots! and dinosaurs!)\n- Emotes in multiplayer mode"
+        },
+        {
+            "beta": false,
             "bundleIdentifier": "com.noodlecake.altosodyssey",
             "developerName": "Noodlecake Studios Inc",
             "downloadURL": "https://download1638.mediafire.com/dzm3sbcgs9bgL5EucFKtDKyngNlK6lFYs4LjFW3NBQ8vWBbQkpiGy8vpYhu7SlkQJLMN1FYnyQXZCpW9KrkUMIi6iT24JgzHx26GcLA6F-1Kjp8JuHr09_jii-gCTZXIh0zgnF_GygKNDXGZn7yMg3pCWdNcRpergf6ny4DLMQZgfNoL/jar01e261i5l557/Alto%5C%27s+Odyssey+%28v1.2.0%29.ipa",
@@ -21,18 +36,18 @@
             "developerName": "Noodlecake Studios",
             "downloadURL": "https://download1076.mediafire.com/5tbhsntnu2agagdoke3T42FKCehAco7EuqSknth1ZXRWjFQnI1DqjxAAUUw0fEs0Z2BlsHdRi1qmT3k4hkJkTMWiUzyZS2RqSqsVyj6ztip3XjyzlpQYdCxA88D3IpDapwjiZn0yKiRO9moSoa_GP0iRCI4XB4BmNJGUGmrm9Kl4PeoZ/tsoujgjfa8jab7m/Altos-Adventure-v1.3.1.ipa",
             "iconURL": "https://play-lh.googleusercontent.com/gxylrEt14mAOWhHLJbuHg7lIa3h8t5tLbXcCZL_ox437C4UVO7Euk9rj6fjGLUdnTWw",
-            "localizedDescription": "In this gorgeous twist on the infinite runner, you guide an agile snowboarder down a never-ending mountain, pulling off backflips over icy chasms and grinding along rooftops in sleepy villages. Simple one-finger controls make it instantly accessible, but tackling each level’s trio of challenges requires deft reflexes. With its exquisitely rendered visuals, soothing music, and finely tuned gameplay, Alto’s Adventure is simultaneously serene and exciting.",
+            "localizedDescription": "In this gorgeous twist on the infinite runner, you guide an agile snowboarder down a never-ending mountain, pulling off backflips over icy chasms and grinding along rooftops in sleepy villages. Simple one-finger controls make it instantly accessible, but tackling each level’s trio of challenges requires defft reflexes. With its exquisitely rendered visuals, soothing music, and finely tuned gameplay, Alto’s Adventure is simultaneously serene and exciting.",
             "name": "Alto's Adventure",
             "screenshotURLs": [""],
             "subtitle": "A snowboarding adventure",
             "tintColor": "018084",
             "version": "1.3.1",
             "versionDate": "2020-03-24T14:00:00-07:00",
-            "versionDescription": "• Fixed crash related to device orientation on iPad.\n• Fixed camera bugs in photo mode and during llama stampedes.\n• Fixed bug that caused low resolution textures to load on iPad.\n• Fixed bug that prevented full progress reset for some players.\n• Fixed bug that prevented Game Center achievements being submitted for new players.\n• Added credit to Torin Borrowdale for Zen Mode music.\n• Various localisation improvements.\n• Other minor tweaks and fixes."
+            "versionDescription": "• Fixed crash related to device orientation on iPad.\n• Fixed camera bugs in photo mode and during llama stampedes.\n• Fixed bug that caused low resolution textures to load on iPad.\n• Fixed bug that prevented full progress reset for some players.\n• Fixed bug that prevented Game Center achievements being submitted for new players.\n• Added credit to Torin Borrowdale for Zen Mode music.\n• Various localization improvements.\n• Other minor tweaks and fixes."
         }
     ],
     "identifier": "com.stuffed.stuffed",
-    "name": "Stuffed's repo",
+    "name": "Stuffed's Repo",
     "news": [],
     "userInfo": {}
 }
