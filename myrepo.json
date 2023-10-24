@@ -53,13 +53,27 @@
             "iconURL": "https://play-lh.googleusercontent.com/gxylrEt14mAOWhHLJbuHg7lIa3h8t5tLbXcCZL_ox437C4UVO7Euk9rj6fjGLUdnTWw",
             "localizedDescription": "In this gorgeous twist on the infinite runner, you guide an agile snowboarder down a never-ending mountain, pulling off backflips over icy chasms and grinding along rooftops in sleepy villages. Simple one-finger controls make it instantly accessible, but tackling each level’s trio of challenges requires defft reflexes. With its exquisitely rendered visuals, soothing music, and finely tuned gameplay, Alto’s Adventure is simultaneously serene and exciting.",
             "name": "Alto's Adventure",
-            "size": 51930610
             "screenshotURLs": [""],
             "subtitle": "A snowboarding adventure",
             "tintColor": "018084",
             "version": "1.3.1",
             "versionDate": "2020-03-24T14:00:00-07:00",
             "versionDescription": "• Fixed crash related to device orientation on iPad.\n• Fixed camera bugs in photo mode and during llama stampedes.\n• Fixed bug that caused low resolution textures to load on iPad.\n• Fixed bug that prevented full progress reset for some players.\n• Fixed bug that prevented Game Center achievements being submitted for new players.\n• Added credit to Torin Borrowdale for Zen Mode music.\n• Various localization improvements.\n• Other minor tweaks and fixes."
+        },
+		{
+            "beta": false,
+            "bundleIdentifier": "com.kurzgesagt.universeinanutshell",
+            "developerName": "Kurzgesagt - In a Nutshell",
+            "downloadURL": "https://download1583.mediafire.com/nu35zizws9lgZ1Mc3Xfv1D8xOkvPxUcdoxpWXRgu78w3Z0qFlLrhlzW-MW6mS2Kf5QxrqUrNn1hiZfzNlv9MX4uOlFB37bPkKq0ds2786D12VtyidbTNLy2w0zxF4xTH_HjN35RlCEzU5Ih_cnOCLG2qiew-LbwFt0k1OvkRJQrBNqkK/73fv7kr10nlmsmr/Kurzgezagt+Universe+in+a+Nutshell%281%29.ipa",
+            "iconURL": "https://play-lh.googleusercontent.com/HtD1C00v-h6Jf8shU2JObSLTmJ-dFbk1C26YUgN0i0Dpm3YgKDK3OpxCQSQQKb_fiqx_",
+            "localizedDescription": "The range of size in the universe, from the tiniest particles to the epic galaxies - we take you on a journey of size that let’s you explore it all with a single swipe. How big is a planet, compared to a human? And how small is an atom really? You can’t fully wrap your head around the scope of things by just reading about them – so this app lets you experience them in comparison to get a feeling for their true scale. By simply swiping you can zoom in and out all the way from the world of fundamental particles up to the largest stars at the edge of the observable universe.",
+            "name": "Universe in a Nutshell",
+            "size": 203901870,  
+            "subtitle": "Learn science the easy way",
+            "tintColor": "3399FF", 
+            "version": "1.2",
+            "versionDate": "2023-10-24T14:00:00-07:00",
+            "versionDescription": "- Improved overall performance and loading times\n\n- Changed appearance of 15 objects\n\n- Added new objects to explore\n\n- Content bugfixes"
         }
     ],
     "identifier": "com.stuffed.stuffed",
