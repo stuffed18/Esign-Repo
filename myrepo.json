@@ -13,11 +13,26 @@
             "tintColor": "",
             "version": "1.2.0",
             "versionDate": "2020-03-24T14:00:00-07:00",
-            "versionDescription": "It is what it is"
+            "versionDescription": "Alto's Odyssey has been updated to improve your gameplay experience, including a number of changes, such as;\n\n• A fix for iOS 12.5.5 devices, which was previously causing a crash on launch.\n\n• Improved ProMotion support for iPhone 12, 13 Pro/Pro Max and iPad Pro devices.\n\n• Fixes for various broken Brazilian Portuguese translations.\n\n• General usability and performance improvements."
+        },
+        {
+            "beta": false,
+            "bundleIdentifier": "com.noodlecake.altosadventure",
+            "developerName": "Noodlecake Studios",
+            "downloadURL": "https://download1076.mediafire.com/5tbhsntnu2agagdoke3T42FKCehAco7EuqSknth1ZXRWjFQnI1DqjxAAUUw0fEs0Z2BlsHdRi1qmT3k4hkJkTMWiUzyZS2RqSqsVyj6ztip3XjyzlpQYdCxA88D3IpDapwjiZn0yKiRO9moSoa_GP0iRCI4XB4BmNJGUGmrm9Kl4PeoZ/tsoujgjfa8jab7m/Altos-Adventure-v1.3.1.ipa",
+            "iconURL": "https://play-lh.googleusercontent.com/gxylrEt14mAOWhHLJbuHg7lIa3h8t5tLbXcCZL_ox437C4UVO7Euk9rj6fjGLUdnTWw",
+            "localizedDescription": "In this gorgeous twist on the infinite runner, you guide an agile snowboarder down a never-ending mountain, pulling off backflips over icy chasms and grinding along rooftops in sleepy villages. Simple one-finger controls make it instantly accessible, but tackling each level’s trio of challenges requires deft reflexes. With its exquisitely rendered visuals, soothing music, and finely tuned gameplay, Alto’s Adventure is simultaneously serene and exciting.",
+            "name": "Alto's Adventure",
+            "screenshotURLs": [""],
+            "subtitle": "A snowboarding adventure",
+            "tintColor": "018084",
+            "version": "1.3.1",
+            "versionDate": "2020-03-24T14:00:00-07:00",
+            "versionDescription": "• Fixed crash related to device orientation on iPad.\n• Fixed camera bugs in photo mode and during llama stampedes.\n• Fixed bug that caused low resolution textures to load on iPad.\n• Fixed bug that prevented full progress reset for some players.\n• Fixed bug that prevented Game Center achievements being submitted for new players.\n• Added credit to Torin Borrowdale for Zen Mode music.\n• Various localisation improvements.\n• Other minor tweaks and fixes."
         }
     ],
     "identifier": "com.stuffed.stuffed",
-    "name": "stuffed's repo",
+    "name": "Stuffed's repo",
     "news": [],
     "userInfo": {}
 }
