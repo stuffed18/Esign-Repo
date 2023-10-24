@@ -2,6 +2,21 @@
     "apps": [
         {
             "beta": false,
+            "bundleIdentifier": "com.disney.disneycrossyroad",
+            "developerName": "HIPSTER WHALE",
+            "downloadURL": "https://download850.mediafire.com/cxkrx1zm6xhg5ni1onl0i1DcNor_NWArZkc4WUy_6iDG_TkqoR7H7vOaZ3sgWgyy3pfRTITqcr9xbMo1GBJPzs8jVEbzD1gAvefcNdCQY3axV6gk6Pz7rhAXZvpw7cba-RHyWzYJno8ucPjHG2yccrJvW4omUH4GvqY0D-Xe8zq4SO6L/wu0si9i0f21z8ln/Disney-Crossy-Road-Hack.ipa",
+            "iconURL": "https://static.wikia.nocookie.net/disney/images/f/fd/Disney_Crossy_Road_May_2018_Logo.png/revision/latest?cb=20180602011834",
+            "localizedDescription": "From Hipster Whale, the makers of the original Crossy Road with over 120,000,000 downloads, and Disney comes Disney Crossy Road, an all-new take on the 8-bit endless adventure to cross the road without splatting! Tap and swipe your way to a record-setting number of steps with 400+ Disney and Pixar figurines while dodging crazy and unexpected obstacles in 8-bit worlds!\n\nCOLLECT over 400+ Disney and Pixar figurines (many with fun surprises)!\nJOURNEY through 8-bit depictions of iconic locations while enjoying 8-bit versions of familiar tunes!\nMASTER special themed challenges unique to each of the worlds and then some!",
+            "name": "Disney Crossy Road",
+            "size": 76452396, 
+            "subtitle": "Why should the chicken get all the fun?",
+            "tintColor": "black",
+            "version": "3.2",
+            "versionDate": "2023-10-24T14:00:00-07:00",
+            "versionDescription": "Discover endless adventure and collect your favorite Disney and Pixar figurines in Disney Crossy Road!"
+        },
+        {
+            "beta": false,
             "bundleIdentifier": "com.yourdeveloper.crossyroadcastle",
             "developerName": "HIPSTER WHALE",
             "downloadURL": "https://download1530.mediafire.com/7o9bjfxdb9qgszhacWNzNC0qo4bYw42Xd_kmyQFLe-rn1CLVKHGPqYN0m3RFQvKXCFpFsS5Bv5zt1WmaWzDhD_SdqMsJZvPGwhfCxyvWmb_1kVn3siHcP7dazV224qDhuhGRCebCA2reuXzJ4d5KH2-CuuHpO3OUBTnG1GOEmr-AxhVu/8zkro1ea8bpidyh/Crossy+Road+Castle+%28v10.0%29.ipa",
