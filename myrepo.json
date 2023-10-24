@@ -1,0 +1,23 @@
+{
+    "apps": [
+        {
+            "beta": false,
+            "bundleIdentifier": "com.noodlecake.altosodyssey",
+            "developerName": "Noodlecake Studios Inc",
+            "downloadURL": "https://download1638.mediafire.com/dzm3sbcgs9bgL5EucFKtDKyngNlK6lFYs4LjFW3NBQ8vWBbQkpiGy8vpYhu7SlkQJLMN1FYnyQXZCpW9KrkUMIi6iT24JgzHx26GcLA6F-1Kjp8JuHr09_jii-gCTZXIh0zgnF_GygKNDXGZn7yMg3pCWdNcRpergf6ny4DLMQZgfNoL/jar01e261i5l557/Alto%5C%27s+Odyssey+%28v1.2.0%29.ipa",
+            "iconURL": "https://cdn.jim-nielsen.com/ios/512/altos-odyssey-2018-08-02.png",
+            "localizedDescription": "Embark on an endless sandboarding journey through breathtaking landscapes",
+            "name": "Alto's Odyssey",
+            "size": 84074530,
+            "subtitle": "An endless sandboarding journey",
+            "tintColor": "",
+            "version": "1.2.0",
+            "versionDate": "2020-03-24T14:00:00-07:00",
+            "versionDescription": "It is what it is"
+        }
+    ],
+    "identifier": "com.stuffed.stuffed",
+    "name": "stuffed's repo",
+    "news": [],
+    "userInfo": {}
+}
