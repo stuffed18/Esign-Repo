@@ -35,6 +35,26 @@
 	        {
       "beta": false,
       "bundleIdentifier": "",
+      "developerName": "KasSanity",
+      "downloadURL": "https://download1593.mediafire.com/38f67ht5kzpgBh6vf-2wo5j1mYse1PhBf4ADvVQsWOjX7uTgeqJQ0RoOj7a_I8qjhTSEYXQUzsryG4i8NmAl_FbQ6lbjeRj6caDBYjMYhKmQbaatKJe1HfxBGyOLml6bkcusnL7YVLOiFVR5rkXRnbUNFgjem1tsxlvj9j5xxX8/kesx4l9o1h78s7u/Dashy+Square+Lite_1.81_decrypted.ipa",
+      "iconURL": "https://toucharcade.com/wp-content/images/app/1023149834/100x100bb.jpg",
+      "localizedDescription": "This got removed from the appstore so i decrypted it and added it to my repo. Sadly it is only the lite version, but seems like you can play all the levels. ",
+      "name": "Dashy Square Lite",
+      "screenshotURLs": [
+        "https://user-images.githubusercontent.com/705880/65605563-2f009d00-df5e-11e9-9b40-1f36135d5c80.PNG",
+        "https://user-images.githubusercontent.com/705880/65605569-30ca6080-df5e-11e9-8dfb-15ebb00e10cb.PNG",
+        "https://user-images.githubusercontent.com/705880/65605577-332cba80-df5e-11e9-9f00-b369ce974f71.PNG"
+      ],
+      "size": 27629806,
+      "subtitle": "Dash, jump and fly your way through epic levels with rhythm-based gameplay",
+      "tintColor": "018084",
+      "version": "1.81",
+      "versionDate": "",
+      "versionDescription": ""
+    },
+	        {
+      "beta": false,
+      "bundleIdentifier": "",
       "developerName": "Robtop Games",
       "downloadURL": "https://download1334.mediafire.com/pk26sus11mzg6c_2IFSIvwkF-5PlwV4o9jsV10HNGsRMmFXu5tez8Xi01bcMXeYRrFn9ap19N9mpoZqLNdH7D0wAgPzEB9oUfx2pCJDPv7UvYPxm3ZKkZGZUBIZecjlu3WA9M4uuefYKdzFcZxnIKA5Wc3gbQgWDjs7UPunHHr4/i54kg574lu24fxv/Geometry-Dash-v2-113.ipa",
       "iconURL": "https://play-lh.googleusercontent.com/ixHXzBWPmmKWIBxDMfjbIXK10UQCTDvIYOcs_uLXHCRbdsz2siJFYfb7MqckU8eC3Ks",
