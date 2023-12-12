@@ -15,6 +15,26 @@
             "versionDate": "2023-10-24T14:00:00-07:00",
             "versionDescription": "Discover endless adventure and collect your favorite Disney and Pixar figurines in Disney Crossy Road!"
         },
+	        {
+      "beta": false,
+      "bundleIdentifier": "",
+      "developerName": "Hipster Whale",
+      "downloadURL": "https://download944.mediafire.com/vgbuddenouvgERg_sbOLyuljmixd6wfUAQm-L1xIC95PxOxURSh-b9m11GQK-oYKOIKHjFbvPjxazuE31tGJ_wO6wiOaPcTjcZadvMJj0jO7VZrYugsSTpuQN91RUqW3K-ZCn5KUqxC2oJX2tL62q4c8h94SaApsOWyXWulVDXk/dva3wt6tzt2cfzr/Crossy-Road-plus-v1-0-1.ipa",
+      "iconURL": "https://cdn.jim-nielsen.com/ios/512/crossy-road-2022-09-26.png",
+      "localizedDescription": "Hop back into the adventure with Crossy Road® re-imagined for Apple Arcade.\n\nJoin Crossy Chicken to collect all the characters & discover CROSSY ROAD park.",
+      "name": "Crossy Road+",
+      "screenshotURLs": [
+        "https://user-images.githubusercontent.com/705880/65605563-2f009d00-df5e-11e9-9b40-1f36135d5c80.PNG",
+        "https://user-images.githubusercontent.com/705880/65605569-30ca6080-df5e-11e9-8dfb-15ebb00e10cb.PNG",
+        "https://user-images.githubusercontent.com/705880/65605577-332cba80-df5e-11e9-9f00-b369ce974f71.PNG"
+      ],
+      "size": 64095207,
+      "subtitle": " The classic hopper re-imagined",
+      "tintColor": "018084",
+      "version": "1.0.1",
+      "versionDate": "",
+      "versionDescription": ""
+    },
         {
             "beta": false,
             "bundleIdentifier": "com.yourdeveloper.crossyroadcastle",
